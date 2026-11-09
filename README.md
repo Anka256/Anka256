@@ -1,6 +1,7 @@
+## Onur Kansoy
+
 <img align="right" width="300" src="media/matrix.svg" alt="Falling green code with the line wake up, Onur">
 
-## Onur Kansoy
 
 Computer Engineering · Izmir Institute of Technology<br>
 Undergraduate researcher at the [Digital Humanities and Artificial Intelligence Laboratory](https://dbb.iyte.edu.tr/site_en.html), IZTECH
