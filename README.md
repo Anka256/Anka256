@@ -1,3 +1,5 @@
+<img align="right" width="300" src="media/matrix.svg" alt="Falling green code with the line wake up, Onur">
+
 ## Onur Kansoy
 
 Computer Engineering · Izmir Institute of Technology<br>
