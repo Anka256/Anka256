@@ -21,8 +21,8 @@ I am interested in multi-agent reinforcement learning, emergent behaviour, socia
 <tr>
 <td width="250"><a href="https://anka256.github.io/onurkansoy/research/hunter-gatherer/"><img src="media/hunter_gatherer.gif" width="250" alt="Hunter-Gatherer Survival: an agent sleeps in camp at night"></a></td>
 <td><b><a href="https://anka256.github.io/onurkansoy/research/hunter-gatherer/">Hunter-Gatherer Survival</a></b> · 2026, ongoing<br>
-A Gymnasium environment I designed for the graduate RL course CENG567: an agent must survive 30 days by foraging, hunting and resting, with risky hunts, injuries and night danger. It started as a homework and keeps growing, now with multi-agent experiments.<br>
-<sub>Python · Gymnasium · NumPy · tabular Q-learning, dynamic programming</sub></td>
+Agents must survive 30 days by foraging, hunting and resting, and skill at big hunts grows only by succeeding at them. It began as my environment for the graduate RL course CENG567 and became a research project with Dr. Alper Demir: does a rich-get-richer effect form among agents that start out identical? Now with a four-agent stag hunt version.<br>
+<sub>Python · Gymnasium · NumPy · tabular Q-learning · dynamic programming · multi-agent RL</sub></td>
 </tr>
 <tr>
 <td width="250"><a href="https://anka256.github.io/onurkansoy/research/hide-and-seek/"><img src="media/hide_and_seek.gif" width="250" alt="Hide and Seek: hider and seeker in a 2D arena with walls and boxes"></a></td>
@@ -31,10 +31,8 @@ A 1v1 continuous physics environment with raycast vision and movable boxes, trai
 <sub>Python · PyTorch · self-play · recurrent PPO</sub></td>
 </tr>
 <tr>
-<td width="250"><a href="https://anka256.github.io/onurkansoy/research/smart-zebra/"><img src="media/smart_zebra.jpg" width="250" alt="Smart Zebra reward diagram"></a></td>
-<td><b><a href="https://anka256.github.io/onurkansoy/research/smart-zebra/">Smart Zebra</a></b> · 2025 to 2026<br>
-My senior thesis: a prompt-to-GRPO recipe for logic-grid reasoning in small language models. First author, funded by TÜBİTAK 2209-A, manuscript in revision.<br>
-<sub>Qwen2.5-3B · SFT · GRPO · TRL</sub></td>
+<td colspan="2"><b><a href="https://anka256.github.io/onurkansoy/research/smart-zebra/">Smart Zebra</a></b> · 2025 to present<br>
+My senior thesis on logic-grid reasoning in small language models. First author, funded by TÜBİTAK 2209-A. After the EMNLP 2026 reviews we are revising it for another conference.</td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="https://github.com/Anka256/SocialJax/tree/recognition">Recognition</a></b> · 2026<br>
