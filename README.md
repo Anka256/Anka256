@@ -9,7 +9,7 @@ Undergraduate researcher at the [Digital Humanities and Artificial Intelligence 
 I put learning agents in small worlds and study what they invent, and what they fail to invent.
 Most of my work is reinforcement learning environments I build myself, from single-agent survival to multi-agent cooperation.
 
-I am interested in multi-agent reinforcement learning, emergent behaviour, social dilemmas, opponent modelling and game RL.
+I am interested in multi-agent reinforcement learning, social simulation, social dilemmas, emergent behaviour, opponent modelling and game RL.
 
 **[Website](https://anka256.github.io/onurkansoy/)** · [CV](https://anka256.github.io/onurkansoy/cv/) · [Hugging Face](https://huggingface.co/TheArchitect256) · [LinkedIn](https://linkedin.com/in/onurkansoy) · onurkansoy@std.iyte.edu.tr
 
